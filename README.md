@@ -4,9 +4,9 @@
 This application implements a distributed key-value storage system that provides both availability and linearizability. It also performs successful read and write operations even in the presence of failures.
 
 It also implements : 
-• Data replication 
-• Data partitioning 
-• Handle node failures while continuing to provide availability and linearizability
+• Data replication. 
+• Data partitioning. 
+• Handle node failures while continuing to provide availability and linearizability.
 
 Following assumptions are made in this project:
 
